@@ -5,8 +5,7 @@ if I say, I love you Grandma
 elsif I say Hi nana, how are you?
    puts "Huh? Sonny Speak up".upcase
 elsif I shout 
-    puts "Not "
-
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
+    puts "No, not since 1938".upcase
+else
+  
 end
